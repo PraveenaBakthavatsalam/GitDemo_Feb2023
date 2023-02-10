@@ -7,4 +7,9 @@ public class App_Tests{
     public void test1(){
         System.out.println("running test1");
     }
+    @Test
+    public void test2()
+    {
+        System.out.println("running test2");
+    }
 }
