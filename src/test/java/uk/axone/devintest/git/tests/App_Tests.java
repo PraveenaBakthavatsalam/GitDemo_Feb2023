@@ -12,4 +12,9 @@ public class App_Tests{
     {
         System.out.println("running test2");
     }
+    @Test
+    public void test3()
+    {
+        System.out.println("testing branches");
+    }
 }
