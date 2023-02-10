@@ -17,4 +17,9 @@ public class App_Tests{
     {
         System.out.println("testing branches");
     }
+    @Test
+    public void test4()
+    {
+        System.out.println("testing Jenkins");
+    }
 }
